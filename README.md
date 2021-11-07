@@ -29,6 +29,6 @@ At the time of writing this "advert", Kefir can:
 At this timepoint, no code is shared on github as at this development stage software is *Authorware* - if you are interested in using Kefir for your own projects, I would be happy to implement desired features and helping you to set up the stuff, but I would like to be a co-author of your paper arising from this study. Please send me an e-mail.
 
 # Link to further documentation
-* [user's docummentation (Kefir for dummies](user_doc.md)
+* [user's docummentation (Kefir for dummies)](user_doc.md)
 * [API description (Kefir for beginners)](api_doc.md)
 
